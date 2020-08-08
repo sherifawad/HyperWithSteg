@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HyperEncryption</string>
+    <string name="numerical_settings">Numerical Settings</string>
+    <string name="first_number">First Number</string>
+    <string name="browse_image">Browse Image</string>
+    <string name="submit">SUBMIT</string>
+    <string name="done">Done</string>
+    <string name="Cancel">Cancel</string>
+    <string name="characters_settings">Characters Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="secret_message">Secret Message</string>
+    <string name="carrie_image">Carrie Image</string>
+    <string name="use_steganography">Use Steganography</string>
+    <string name="output_file">Output File</string>
+    <string name="execute">Execute</string>
+    <string name="output_directory">Output Directory</string>
+    <string name="select_received_file">Select Received File</string>
+    <string name="Complete">Complete</string>
+    <string name="Error">Error</string>
+    <string name="Encrypt">Encrypt</string>
+
+    <string-array name="Operations_Arrays">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+    </string-array>
+    <string name="title_activity_cry_steg">CrySteg</string>
+    <string name="tab_text_1">Send Tab</string>
+    <string name="tab_text_2">Receive Tab</string>
+</resources>
